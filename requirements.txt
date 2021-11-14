@@ -1,0 +1,10 @@
+tkinter
+sympy
+PIL
+xlrd
+warnings
+scipy
+numpy
+statistics
+collections
+re
